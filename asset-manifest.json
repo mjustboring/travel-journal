@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/travel-journal/static/css/main.72883330.css",
+    "main.js": "/travel-journal/static/js/main.3f377d25.js",
+    "static/media/img11.jpg": "/travel-journal/static/media/img11.aace6a1e327c8cd82cfc.jpg",
+    "static/media/img2.jpg": "/travel-journal/static/media/img2.5de5c6c2292ccaf3f2eb.jpg",
+    "static/media/img13.jpg": "/travel-journal/static/media/img13.172369096bbee4d453c3.jpg",
+    "static/media/img9.jpg": "/travel-journal/static/media/img9.746c047f6542781cf33c.jpg",
+    "static/media/img17.jpg": "/travel-journal/static/media/img17.933fc91f7295d0e682be.jpg",
+    "static/media/img1.jpg": "/travel-journal/static/media/img1.b4f04bdedcfcd8033cb0.jpg",
+    "static/media/img5.jpg": "/travel-journal/static/media/img5.342646528249105ac7f4.jpg",
+    "static/media/img3.jpg": "/travel-journal/static/media/img3.fd73451cdb3289aef3b4.jpg",
+    "static/media/img7.jpg": "/travel-journal/static/media/img7.45665f7e8faf3a5205b0.jpg",
+    "static/media/img15.jpg": "/travel-journal/static/media/img15.15fe832be5746932e911.jpg",
+    "static/media/img12.jpg": "/travel-journal/static/media/img12.02440ca9fd7b48c46023.jpg",
+    "static/media/img8.jpg": "/travel-journal/static/media/img8.6f811e667f648bf3baac.jpg",
+    "static/media/img4.jpg": "/travel-journal/static/media/img4.82cc3c243f479a55b809.jpg",
+    "static/media/img6.jpg": "/travel-journal/static/media/img6.72fb2d6568cc718166d3.jpg",
+    "static/media/img18.jpg": "/travel-journal/static/media/img18.3b2b83350afc2063dd66.jpg",
+    "static/media/img10.jpg": "/travel-journal/static/media/img10.5f6a2d2ee6f392435a51.jpg",
+    "static/media/img14.jpg": "/travel-journal/static/media/img14.dc99a9df8927405be127.jpg",
+    "static/media/img16.jpg": "/travel-journal/static/media/img16.eb8b5e0ac4695ccada57.jpg",
+    "static/media/logo.svg": "/travel-journal/static/media/logo.3d103b6532ab709da50aef873b485d9a.svg",
+    "index.html": "/travel-journal/index.html",
+    "static/media/marker.svg": "/travel-journal/static/media/marker.f88058710417e71154303978c3712c71.svg",
+    "main.72883330.css.map": "/travel-journal/static/css/main.72883330.css.map",
+    "main.3f377d25.js.map": "/travel-journal/static/js/main.3f377d25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72883330.css",
+    "static/js/main.3f377d25.js"
+  ]
+}
