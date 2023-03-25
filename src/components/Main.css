@@ -1,0 +1,12 @@
+.main {
+  height: 94%;
+  overflow: auto;
+  padding: 5rem;
+}
+
+hr {
+  margin-block: 4rem;
+  border: 0.25px solid lightgray;
+  border-radius: 50%;
+  opacity: 50%;
+}
